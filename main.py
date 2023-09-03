@@ -1,3 +1,3 @@
-from funcs import sum_numbers
+from funcs import sum_numbers, subtract_number
 
-print(sum_numbers(3, 5))
+print(subtract_number(3, 5))
